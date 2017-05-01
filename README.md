@@ -1,6 +1,11 @@
-wpa_supplicant and hostapd
+# wpa_supplicant and hostapd
 --------------------------
 
+Tutorial to how use this software and installation guide in **Raspberry Pi**
+> http://raspberrypihq.com/how-to-turn-a-raspberry-pi-into-a-wifi-router/
+
+
+```
 Copyright (c) 2002-2011, Jouni Malinen <j@w1.fi> and contributors
 All Rights Reserved.
 
@@ -18,11 +23,11 @@ earlier releases, the programs are now built by first going to a
 subdirectory (wpa_supplicant or hostapd) and creating build
 configuration (.config) and running 'make' there (for Linux/BSD/cygwin
 builds).
+```
 
-
-License
+### License
 -------
-
+```
 GPL v2:
 
 This program is free software; you can redistribute it and/or modify
@@ -39,7 +44,7 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
 (this copy of the license is in COPYING file)
-
+```
 
 Alternatively, this software may be distributed, used, and modified
 under the terms of BSD license:
@@ -57,8 +62,8 @@ met:
 
 3. Neither the name(s) of the above-listed copyright holder(s) nor the
    names of its contributors may be used to endorse or promote products
-   derived from this software without specific prior written permission.
-
+   derived from this software without specific prior written permission.
+```
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
 "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
 LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
@@ -70,3 +75,4 @@ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
 THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+```
